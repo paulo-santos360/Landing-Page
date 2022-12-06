@@ -272,7 +272,7 @@
   }
 
   .gallery-img img:hover {
-    transform: translate(3%, 3%) scale(1.2) rotate(5deg);
+    transform: translate(5%, 5%) scale(1.2) rotate(5deg);
   }
 
 /*tabela*/
